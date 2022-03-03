@@ -10,7 +10,8 @@ fps.put("Apple", 240);
 fps.put("Grape", 190);
 fps.put("Orange", 80);
 fps.put("Kiwi", 120);               
-fps.put("Grape", 210);
+fps.put("mango", 210);
+//new thing
 
 System.out.println(fps.containsKey("Apple"));
 System.out.println(fps.containsValue(120));           
